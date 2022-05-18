@@ -1,5 +1,4 @@
-								TRAFFIC SURVILLENCE SYSTEM
-											
+TRAFFIC SURVILLENCE SYTEM
 Problem:Identifying traffic stop line violation after employing multi-level classification on vehicular traffic and reading offender’s license plates using character recognition
 
 The entire problem is broken down into 3 modules:
