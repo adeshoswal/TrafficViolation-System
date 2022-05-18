@@ -1,4 +1,4 @@
-											TRAFFIC SURVEILLANCE USING MULTI-LEVEL CLASSIFICATION
+								TRAFFIC SURVILLENCE SYSTEM
 											
 Problem:Identifying traffic stop line violation after employing multi-level classification on vehicular traffic and reading offender’s license plates using character recognition
 
